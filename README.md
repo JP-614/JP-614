@@ -7,8 +7,6 @@
 
 - 👯 My major is **mechanical engineering**
 
-- 💬 Ask me about **Python and Pytorch(+mechanical engineering)**
-
 - 📫 How to reach me **ahnjeongpil7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
