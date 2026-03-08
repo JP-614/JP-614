@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ahnjeongpil7@gmail.com**
 
+**Research-master→修士研究のコートまとめ**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jeongpilism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeongpilism" height="30" width="40" /></a>
@@ -22,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jp-614&show_icons=true&locale=en" alt="jp-614" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jp-614&" alt="jp-614" /></p>
+
